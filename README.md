@@ -1,2 +1,8 @@
-# Tire_parser
-Требовалось спарсить сайт, отдел по продаже шин. Выходные данные: ссылка на изображение,название,цена,ссылку на карточку,количество шин в наличии, в формате json.
+### Requirements to run this bot
+
+1. Python 3.8 (Preferably)
+2. -pip install requests
+3. -pip install beautifulsoup4
+4. -pip install lxml
+5. Open file "parser.py" via cmd console
+ 
